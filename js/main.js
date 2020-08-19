@@ -7,7 +7,7 @@ document.getElementById('mainvid').innerHTML = mainCont.code;
 
 content.forEach((i) => {
     document.getElementById('cont').innerHTML += `
-    <div class="card" onclick="vidselect(3)">
+    <div class="card" onclick="vidselect(${i.id})">
     <img src=${i.img} alt="Image" class="ima">
     <p class="tit">${i.date}</p>
     </div>
