@@ -16,6 +16,7 @@ content.forEach((i) => {
 })
 
 function vidselect(myid) {
+	console.log(myid);
     content.forEach((i) => {
         if (i.id == myid) {
             document.getElementById('mainvid').innerHTML = i.code;
