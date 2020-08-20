@@ -3,6 +3,10 @@ var mainCont = {
 };
 
 document.getElementById('mainvid').innerHTML = mainCont.code;
+document.getElementById('dlinkdiv').innerHTML = `
+<a href="#" id="dlink"> Download Link</a>
+`;
+
 
 
 content.forEach((i) => {
@@ -20,6 +24,10 @@ function vidselect(myid) {
     content.forEach((i) => {
         if (i.id == myid) {
             document.getElementById('mainvid').innerHTML = i.code;
+            document.getElementById('dlinkdiv').innerHTML = `
+            <a href=${i.d} id="dlink"> Download Link</a>
+            `
+
         }
     })
     $(window).scrollTop(100); 
