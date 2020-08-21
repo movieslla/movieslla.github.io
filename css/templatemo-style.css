@@ -241,7 +241,7 @@ hr {
     margin-right: 2rem;
     margin-left: 2rem;
     position: relative;
-    width: auto;
+    width: 300px;
     border: 3px solid rgb(66, 35, 240);
       border-radius: 5%;
   }
@@ -252,9 +252,12 @@ hr {
   .ima{
       /* border: 3px solid rgb(66, 35, 240); */
       border-radius: 5%;
+      width: 293px;
   }
   .tit{
       text-align: center;
+      font-weight: bold;
+      padding-top: 1rem;
   }
 #dlink{
     font-size: xx-large;
