@@ -9,7 +9,17 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/templatemo-style.css">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon.png">
+    <link rel="stylesheet" type="text/css" href="add_to_homescreen/style/addtohomescreen.css">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="mobile-web-app-title" content="Rolos Chicken">
+
+
+
+
 </head>
 
 <body>
@@ -57,6 +67,16 @@
     <script type="text/javascript" src="js/content.js"></script>
     <script type="text/javascript" src="js/main.js"></script>
     <script src="js/jquery.min.js"></script>
+    <script src="add_to_homescreen/src/addtohomescreen.js"></script>
+    <script>
+        if(
+            (("standalone" in window.navigator)&& !window.navigator.standalone)
+            ||
+            (!window.matchMedia('(display-mode: standalone)').matches)
+        ){
+            addToHomescreen();
+        }
+    </script>
 </body>
 
 </html>
