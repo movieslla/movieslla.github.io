@@ -34,6 +34,20 @@ var content = [
         code: '<iframe id="tm-welcome-video" class="tm-welcome-video" src="https://streamtape.com/e/AAyrXOmgz9SXrja/Episode_775.mp4" width="1" height="1" allowfullscreen allowtransparency allow="autoplay" scrolling="no" frameborder="0"></iframe>',
         d: "https://streamtape.com/v/AAyrXOmgz9SXrja",
     },
+    {
+        id: 6,
+        img: "https://akamaividz2.zee5.com/image/upload/w_261,h_147,c_scale,f_auto,q_auto/resources/0-1-manual_43n8q9t67am0/list/01manual_43n8q9t67am0_list.jpg",
+        date: "22 Aug 2020, Saturday - E776",
+        code: '<iframe id="tm-welcome-video" class="tm-welcome-video" src="https://streamtape.com/e/LMaVgdaqZaH4Ym/Episode_776.mp4" width="1" height="1" allowfullscreen allowtransparency allow="autoplay" scrolling="no" frameborder="0"></iframe>',
+        d: "https://streamtape.com/v/LMaVgdaqZaH4Ym",
+    },
+    {
+        id: 7,
+        img: "https://akamaividz2.zee5.com/image/upload/w_261,h_147,c_scale,f_auto,q_auto/resources/0-1-manual_1hk7k0b428rg/list/01manual_1hk7k0_1254407114.jpg",
+        date: "23 Aug 2020, Sunday - E777",
+        code: '<iframe id="tm-welcome-video" class="tm-welcome-video" src="https://streamtape.com/e/DPq7gXpojrukoKo/Episode_777.mp4" width="1" height="1" allowfullscreen allowtransparency allow="autoplay" scrolling="no" frameborder="0"></iframe>',
+        d: "https://streamtape.com/v/DPq7gXpojrukoKo",
+    },
 
 ]
 // id="tm-welcome-video" class="tm-welcome-video"
