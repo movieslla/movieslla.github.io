@@ -48,6 +48,13 @@ var content = [
         code: '<iframe id="tm-welcome-video" class="tm-welcome-video" src="https://streamtape.com/e/DPq7gXpojrukoKo/Episode_777.mp4" width="1" height="1" allowfullscreen allowtransparency allow="autoplay" scrolling="no" frameborder="0"></iframe>',
         d: "https://streamtape.com/v/DPq7gXpojrukoKo",
     },
+    {
+        id: 8,
+        img: "https://akamaividz2.zee5.com/image/upload/w_368,h_207,c_scale,f_auto,q_auto/resources/0-1-manual_4suee8gvlf10/list/01manual_4suee8gvlf10_list.jpg",
+        date: "24 Aug 2020, Monday - E778",
+        code: '<iframe id="tm-welcome-video" class="tm-welcome-video" src="https://streamtape.com/e/JYQbmzz1Q9F6gx/Vanaja%27s_conspiracy_-_Sembaruthi.mp4" width="1" height="1" allowfullscreen allowtransparency allow="autoplay" scrolling="no" frameborder="0"></iframe>',
+        d: "https://streamtape.com/v/JYQbmzz1Q9F6gx",
+    },
 
 ]
 // id="tm-welcome-video" class="tm-welcome-video"
