@@ -55,6 +55,20 @@ var content = [
         code: '<iframe id="tm-welcome-video" class="tm-welcome-video" src="https://streamtape.com/e/JYQbmzz1Q9F6gx/Vanaja%27s_conspiracy_-_Sembaruthi.mp4" width="1" height="1" allowfullscreen allowtransparency allow="autoplay" scrolling="no" frameborder="0"></iframe>',
         d: "https://streamtape.com/v/JYQbmzz1Q9F6gx",
     },
+    {
+        id: 9,
+        img: "https://akamaividz2.zee5.com/image/upload/w_368,h_207,c_scale,f_auto,q_auto/resources/0-1-manual_2nrr697k0p70/list/01manual_2nrr697_621818734.jpg",
+        date: "25 Aug 2020, Tuesday - E779",
+        code: '<iframe id="tm-welcome-video" class="tm-welcome-video" src="https://streamtape.com/e/KPPg4vgmLgI0rbK/UTF-8%27%27www.TamilVaathi.online%2520-%2520Sembaruthi%2520EP%2520779%2520-%2520720p%2520-%2520220MB.mp4" width="1" height="1" allowfullscreen allowtransparency allow="autoplay" scrolling="no" frameborder="0"></iframe>',
+        d: "https://streamtape.com/v/KPPg4vgmLgI0rbK",
+    },
+    {
+        id: 10,
+        img: "https://akamaividz2.zee5.com/image/upload/w_368,h_207,c_scale,f_auto,q_auto/resources/0-1-manual_601n27p3hlh0/list/01manual_601n27p3hlh0_list.jpg",
+        date: "26 Aug 2020, Wednesday - E780",
+        code: '<iframe id="tm-welcome-video" class="tm-welcome-video" src="https://streamtape.com/e/ZP4PmgqK4Lcqv9v/UTF-8%27%27www.TamilVaathi.online%2520-%2520Sembaruthi%2520-%2520780%2520EP%2520720p%2520-%2520250MB.mp4" width="1" height="1" allowfullscreen allowtransparency allow="autoplay" scrolling="no" frameborder="0"></iframe>',
+        d: "https://streamtape.com/v/ZP4PmgqK4Lcqv9v",
+    },
 
 ]
 // id="tm-welcome-video" class="tm-welcome-video"
