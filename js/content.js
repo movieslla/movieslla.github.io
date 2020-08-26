@@ -1,12 +1,5 @@
 var content = [
     {
-        id: 1,
-        img: "https://akamaividz2.zee5.com/image/upload/w_368,h_207,c_scale,f_auto,q_auto/resources/0-1-manual_1kb7874uivkg/list/sembaruthi_ep771_seamless_.jpg",
-        date: "17 Aug 2020, Monday - E771",
-        code: '<iframe id="tm-welcome-video" class="tm-welcome-video" src="https://streamtape.com/e/Q1XOR433x9T06x8/www.sembaruthi.online_-_Episode_771.mp4" width="1" height="1" allowfullscreen allowtransparency allow="autoplay" scrolling="no" frameborder="0"></iframe>',
-        d: "https://streamtape.com/v/Q1XOR433x9T06x8",
-    },
-    {
         id: 2,
         img: "https://akamaividz2.zee5.com/image/upload/w_368,h_207,c_scale,f_auto,q_auto/resources/0-1-manual_1ebkhvibbdu8/list/sembaruthi_ep772_seamless_.jpg",
         date: "18 Aug 2020, Tuesday - E772",
@@ -68,6 +61,13 @@ var content = [
         date: "26 Aug 2020, Wednesday - E780",
         code: '<iframe id="tm-welcome-video" class="tm-welcome-video" src="https://streamtape.com/e/ZP4PmgqK4Lcqv9v/UTF-8%27%27www.TamilVaathi.online%2520-%2520Sembaruthi%2520-%2520780%2520EP%2520720p%2520-%2520250MB.mp4" width="1" height="1" allowfullscreen allowtransparency allow="autoplay" scrolling="no" frameborder="0"></iframe>',
         d: "https://streamtape.com/v/ZP4PmgqK4Lcqv9v",
+    },
+    {
+        id: 11,
+        img: "https://akamaividz2.zee5.com/image/upload/w_368,h_207,c_scale,f_auto,q_auto/resources/0-1-manual_m7pgjbckonc0/list/01manual_m7pgjbckonc0_list.jpg",
+        date: "27 Aug 2020, Thursday - E781",
+        code: '<iframe id="tm-welcome-video" class="tm-welcome-video" src="https://streamtape.com/e/vVPOqBRPK0F4GXD/Episode_781.mp4" width="1" height="1" allowfullscreen allowtransparency allow="autoplay" scrolling="no" frameborder="0"></iframe>',
+        d: "https://streamtape.com/v/vVPOqBRPK0F4GXD",
     },
 
 ]
